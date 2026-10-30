@@ -1,0 +1,119 @@
+BIODNA DIAGNOSTICS LAB
+FRONT OFFICE AND PATIENT PREPARATION GUIDELINES
+
+Document number : BIODNA-GL-FO-002
+Version         : 2.1
+Effective date  : 2026-04-01
+Next review     : 2027-03-31
+Prepared by     : Front Office Manager
+Approved by     : Laboratory Director
+Note            : Fictional laboratory. Demonstration content only.
+
+------------------------------------------------------------
+1. PURPOSE
+------------------------------------------------------------
+These guidelines help front office and home collection staff give patients
+correct, consistent information before and after their tests.
+
+------------------------------------------------------------
+2. WORKING HOURS
+------------------------------------------------------------
+Main laboratory sample collection: Monday to Saturday, 7:00 AM to 8:00 PM.
+Sunday collection: 7:00 AM to 1:00 PM.
+Home collection slots: 6:30 AM to 11:00 AM daily, booked at least 12 hours in advance.
+Emergency (STAT) samples are accepted 24 hours a day at the main laboratory.
+
+------------------------------------------------------------
+3. PATIENT PREPARATION
+------------------------------------------------------------
+3.1 Fasting tests
+- Fasting Blood Sugar: fast for 8 to 10 hours. Plain water is allowed.
+- Lipid Profile: fasting for 10 to 12 hours is preferred. Plain water is allowed.
+- Vitamin B12: fasting for 6 to 8 hours is preferred.
+- During fasting, the patient must not take tea, coffee, juice, chewing gum or smoke.
+- Patients should take their regular medicines unless their doctor has said otherwise,
+  but diabetic patients must not take diabetes medicine until after the fasting sample.
+
+3.2 Post prandial blood sugar (PPBS)
+- Collect exactly 2 hours after the patient starts their meal.
+- Write the meal time and collection time on the request form.
+
+3.3 Tests that do NOT need fasting
+- HbA1c, Complete Blood Count, Thyroid Profile, TSH, Vitamin D, CRP and most serology
+  tests can be collected at any time of day.
+
+3.4 Urine samples
+- Give the patient a sterile screw-cap container.
+- Explain clean-catch midstream collection: pass the first part of urine into the
+  toilet, collect the middle part in the container, and close the lid tightly.
+- First morning urine is preferred for urine routine.
+- For urine culture, collect before starting any antibiotics.
+- The sample must reach the laboratory within 2 hours.
+
+3.5 Special cases
+- Patients on warfarin: write the current dose on the PT/INR request form.
+- Thyroid patients: collect the sample before the morning thyroid tablet where possible.
+- HIV testing: written informed consent must be signed before collection. Results are
+  given only to the patient or the referring doctor in person, never by phone.
+
+------------------------------------------------------------
+4. WHAT PATIENTS SHOULD BRING
+------------------------------------------------------------
+- Doctor's prescription or request form.
+- A government photo ID.
+- Previous reports, if the doctor wants a comparison.
+- List of current medicines.
+
+------------------------------------------------------------
+5. REPORT DELIVERY
+------------------------------------------------------------
+- Turnaround times are listed in the BIODNA test catalog (test master).
+- Reports are sent by email and SMS link as soon as they are approved by the pathologist.
+- Printed reports can be collected from the front desk with the bill receipt.
+- Reports are never shared with anyone other than the patient or the referring doctor
+  without the patient's written permission.
+- Critical results are phoned directly to the treating doctor by the laboratory,
+  as per BIODNA-QM-REF-001. Front office staff must not give critical results to
+  patients over the phone.
+
+------------------------------------------------------------
+6. RECOLLECTION
+------------------------------------------------------------
+- If a sample is rejected (for example haemolysed, clotted or wrongly labelled),
+  the front office calls the patient within 1 hour to arrange recollection.
+- Recollection is free of charge.
+- Explain the reason politely without blaming the patient or the phlebotomist.
+
+------------------------------------------------------------
+7. WHAT FRONT OFFICE STAFF MUST NOT DO
+------------------------------------------------------------
+- Do not interpret results or tell a patient whether a result is "normal" or "bad".
+- Do not suggest medicines or treatment.
+- Do not change a doctor's test request without speaking to the doctor.
+- For any medical question, politely ask the patient to consult their doctor or
+  request a call back from the consultant pathologist.
+
+------------------------------------------------------------
+8. FREQUENTLY ASKED QUESTIONS
+------------------------------------------------------------
+Q: Can I drink water before a fasting test?
+A: Yes. Plain water is allowed and helps make blood collection easier.
+
+Q: Do I need to fast for HbA1c?
+A: No. HbA1c reflects average blood sugar over about 3 months and can be done at any time.
+
+Q: How long does a thyroid profile report take?
+A: 24 hours from sample receipt. See the test catalog for other tests.
+
+Q: Can a family member collect my report?
+A: Only with a signed authorisation letter from the patient and the bill receipt.
+
+Q: My sample was rejected. Do I need to pay again?
+A: No. Recollection after a rejected sample is free of charge.
+
+------------------------------------------------------------
+9. REVISION HISTORY
+------------------------------------------------------------
+2.1  2026-04-01  Added HIV result confidentiality rule and recollection call within 1 hour.
+2.0  2025-04-01  Added home collection slots and FAQ section.
+1.0  2024-04-01  First issue.

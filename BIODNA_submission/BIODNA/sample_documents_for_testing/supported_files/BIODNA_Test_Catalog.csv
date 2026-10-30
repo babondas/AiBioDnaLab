@@ -1,0 +1,29 @@
+test_code,test_name,synonyms,department,specimen_type,container,min_volume_ml,patient_preparation,specimen_stability,method,turnaround_time_hours,price_inr
+HAE001,Complete Blood Count,CBC; Hemogram; Full Blood Count,Haematology,Whole blood,Lavender top (K2 EDTA),2,No special preparation,Room temperature 24 h; 2-8 °C 48 h,Automated haematology analyser,6,350
+HAE002,Erythrocyte Sedimentation Rate,ESR,Haematology,Whole blood,Black top (3.8% sodium citrate 1:4),1.6,No special preparation,Room temperature 4 h,Westergren,4,150
+HAE003,Peripheral Blood Smear,PBS; Blood film,Haematology,Whole blood,Lavender top (K2 EDTA),2,No special preparation,Room temperature 4 h,Leishman stain microscopy,24,300
+HAE004,Blood Group and Rh Typing,Blood group; ABO Rh,Haematology,Whole blood,Lavender top (K2 EDTA),2,No special preparation,2-8 °C 7 days,Tube agglutination,2,150
+BIO001,HbA1c,Glycated haemoglobin; A1C; Glycosylated haemoglobin,Biochemistry,Whole blood,Lavender top (K2 EDTA),2,No special preparation; fasting not required,2-8 °C 7 days,HPLC,24,500
+BIO002,Fasting Blood Sugar,FBS; Fasting glucose; Fasting plasma glucose,Biochemistry,Plasma,Grey top (sodium fluoride / potassium oxalate),2,Fasting 8-10 hours; water allowed,Room temperature 24 h,Hexokinase,4,100
+BIO003,Post Prandial Blood Sugar,PPBS; PP glucose; 2-hour glucose,Biochemistry,Plasma,Grey top (sodium fluoride / potassium oxalate),2,Collect exactly 2 hours after a meal,Room temperature 24 h,Hexokinase,4,100
+BIO004,Lipid Profile,Lipid panel; Cholesterol test,Biochemistry,Serum,Gold top (SST),3,Fasting 10-12 hours preferred; water allowed,2-8 °C 5 days,Enzymatic colorimetric,24,700
+BIO005,Liver Function Test,LFT; Liver panel,Biochemistry,Serum,Gold top (SST),3,No special preparation,2-8 °C 3 days,Photometric,24,800
+BIO006,Kidney Function Test,KFT; RFT; Renal function test; Renal profile,Biochemistry,Serum,Gold top (SST),3,No special preparation,2-8 °C 3 days,Photometric,24,750
+BIO007,Serum Electrolytes,Electrolytes; Na K Cl; Sodium potassium chloride,Biochemistry,Serum,Gold top (SST),3,No special preparation; avoid fist clenching during collection,Separate serum within 2 h; 2-8 °C 3 days,Ion selective electrode,6,450
+BIO008,Serum Calcium,Calcium; Ca,Biochemistry,Serum,Gold top (SST),3,No special preparation,2-8 °C 7 days,Arsenazo III,24,200
+BIO009,Serum Uric Acid,Uric acid,Biochemistry,Serum,Gold top (SST),3,No special preparation,2-8 °C 5 days,Uricase,24,200
+BIO010,C-Reactive Protein,CRP,Biochemistry,Serum,Gold top (SST),3,No special preparation,2-8 °C 8 days,Immunoturbidimetry,6,450
+BIO011,Vitamin D (25-OH),Vitamin D; 25-hydroxy vitamin D; Vit D3,Biochemistry,Serum,Gold top (SST),3,No special preparation,2-8 °C 7 days; protect from light,Chemiluminescence immunoassay (CLIA),48,1200
+BIO012,Vitamin B12,B12; Cobalamin,Biochemistry,Serum,Gold top (SST),3,Fasting 6-8 hours preferred,2-8 °C 2 days; protect from light,Chemiluminescence immunoassay (CLIA),48,900
+BIO013,Serum Ferritin,Ferritin,Biochemistry,Serum,Gold top (SST),3,No special preparation,2-8 °C 7 days,Chemiluminescence immunoassay (CLIA),24,650
+THY001,Thyroid Profile,TFT; Thyroid function test; T3 T4 TSH,Thyroid,Serum,Gold top (SST),3,No special preparation; note thyroid medication timing on request form,2-8 °C 7 days,Chemiluminescence immunoassay (CLIA),24,600
+THY002,Thyroid Stimulating Hormone,TSH; Thyrotropin,Thyroid,Serum,Gold top (SST),2,No special preparation,2-8 °C 7 days,Chemiluminescence immunoassay (CLIA),24,300
+COA001,Prothrombin Time with INR,PT; INR; PT-INR,Coagulation,Plasma,Light blue top (3.2% sodium citrate),2.7,Note anticoagulant (warfarin) dose on request form,Room temperature 24 h; do not refrigerate,Clotting assay,6,400
+COA002,Activated Partial Thromboplastin Time,APTT; PTT,Coagulation,Plasma,Light blue top (3.2% sodium citrate),2.7,Note heparin therapy on request form,Room temperature 4 h; do not refrigerate,Clotting assay,6,450
+COA003,D-Dimer,D dimer; Fibrin degradation product,Coagulation,Plasma,Light blue top (3.2% sodium citrate),2.7,No special preparation,Room temperature 8 h,Immunoturbidimetry,6,1100
+URI001,Urine Routine and Microscopy,Urine R/M; Urinalysis; Urine routine,Clinical Pathology,Urine,Sterile screw-cap container,15,First morning midstream sample preferred,Test within 2 h; 2-8 °C 24 h,Dipstick and microscopy,4,150
+MIC001,Urine Culture and Sensitivity,Urine C/S; Urine culture,Microbiology,Urine,Sterile screw-cap container,15,Clean-catch midstream; collect before antibiotics,Process within 2 h; 2-8 °C 24 h,Culture and antibiotic sensitivity,72,600
+MIC002,Blood Culture and Sensitivity,Blood C/S; Blood culture,Microbiology,Whole blood,Aerobic blood culture bottle,10,Collect before antibiotics; skin disinfection mandatory,Room temperature; do not refrigerate,Automated culture system,120,1200
+SER001,Dengue NS1 Antigen,Dengue NS1; NS1 antigen,Serology,Serum,Gold top (SST),3,No special preparation; best within first 5 days of fever,2-8 °C 7 days,ELISA,6,800
+SER002,HIV 1 and 2 Antibody,HIV test; HIV screening,Serology,Serum,Gold top (SST),3,Written informed consent mandatory before collection,2-8 °C 7 days,Chemiluminescence immunoassay (CLIA),24,500
+SER003,Hepatitis B Surface Antigen,HBsAg; Hepatitis B screening,Serology,Serum,Gold top (SST),3,No special preparation,2-8 °C 7 days,Chemiluminescence immunoassay (CLIA),24,450
